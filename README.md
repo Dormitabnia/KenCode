@@ -1,0 +1,2 @@
+# KenCode
+For algorithm practise
